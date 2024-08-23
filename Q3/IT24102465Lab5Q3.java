@@ -44,7 +44,7 @@ public class IT24102465Lab5Q3
 		{
 		totalamount=NoDaysReserved*Roomcharge-NoDaysReserved*Roomcharge*Discount10/100;		 
 		}			
-        else
+                else
 		{
 		totalamount=NoDaysReserved*Roomcharge-NoDaysReserved*Roomcharge*Discount20/100;		
 		}

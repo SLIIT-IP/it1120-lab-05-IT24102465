@@ -34,7 +34,7 @@ public class IT24102465Lab5Q1
 		else if (no3>largestno)
 		{
 		largestno=no3;	
-	    }
+	        }
 		
 		if (no2<smallestno)
 		{
